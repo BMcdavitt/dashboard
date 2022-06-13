@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.bada238e.css",
+    "main.css": "/dashboard/static/css/main.ab9b9aa7.css",
     "main.js": "/dashboard/static/js/main.5a4acf32.js",
     "static/media/graph.png": "/dashboard/static/media/graph.7b954c8354fb7de77ea0.png",
     "static/media/Guage2.png": "/dashboard/static/media/Guage2.7ee44982c999b6568621.png",
     "static/media/Guage1.png": "/dashboard/static/media/Guage1.5c3f9cb34cbbb565aa33.png",
     "index.html": "/dashboard/index.html",
     "static/media/Icon.svg": "/dashboard/static/media/Icon.ad207a7ced733e55576d8587df24a4ab.svg",
-    "main.bada238e.css.map": "/dashboard/static/css/main.bada238e.css.map",
+    "main.ab9b9aa7.css.map": "/dashboard/static/css/main.ab9b9aa7.css.map",
     "main.5a4acf32.js.map": "/dashboard/static/js/main.5a4acf32.js.map"
   },
   "entrypoints": [
-    "static/css/main.bada238e.css",
+    "static/css/main.ab9b9aa7.css",
     "static/js/main.5a4acf32.js"
   ]
 }
